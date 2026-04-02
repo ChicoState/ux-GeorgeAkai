@@ -8,3 +8,5 @@ I am a senior student at Chico State pursuing Computer Information Systems. I am
 
 Let's Build Securely and Secure Boldly!
 George Akai
+
+j01 - https://github.com/ChicoState/ux-GeorgeAkai/blob/main/j01.md
